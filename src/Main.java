@@ -14,6 +14,7 @@ public class Main {
         int opcao = scanner.nextInt();
         String tipoPagamento;
 
+
         switch (opcao) {
             case 1:
                 tipoPagamento = "Pix";
